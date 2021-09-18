@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@700&display=swap');
+*{
+    border: 0;
+    margin: 0;
+    font-family: 'Arvo', serif;
+}
+.initial{
+    display: flex;
+    justify-content: center;
+}
+.initial img{
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+}
+.initial__title{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 70%;
+    position: absolute;
+    top: 5rem;
+
+}
+.initial__title h1{
+    font-size: 7rem;
+    text-align: center;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+.initial__title--line{
+    border-bottom:solid 0.2rem #E2B71E;
+    width:100%;
+    height:50px;
+    
+}
+.initial__buttom{
+    position: absolute;
+    top: 34rem;
+    background-color: #E2B71E; /* Green */
+    border: none;
+    color: white;
+    padding: 1rem 2rem;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1rem;
+    border-radius: 0.5rem;
+    text-transform: uppercase;
+    font-weight: bold;
+}
