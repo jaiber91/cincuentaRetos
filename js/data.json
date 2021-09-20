@@ -2,176 +2,176 @@
     {
         "id":1,
         "name": "Expanding card",
-        "demo": "https://cincuenta-retos.vercel.app/",
-        "repo": "https://github.com/jaiber91/Portafolio",
+        "demo": "https://retos-diarios.vercel.app/1Expanding%20cards/index.html",
+        "repo": "https://github.com/jaiber91/Retos_diarios/tree/main/1Expanding%20cards",
         "img": "https://i.ibb.co/M1Hhc9c/1.png"
     },
     {
         "id":2,
         "name": "Progress step",
-        "demo": "https://cincuenta-retos.vercel.app/",
-        "repo": "https://github.com/jaiber91/Portafolio",
+        "demo": "https://retos-diarios.vercel.app/2Progress%20Step/index.html",
+        "repo": "https://github.com/jaiber91/Retos_diarios/tree/main/2Progress%20Step",
         "img": "https://i.ibb.co/L5jWxS7/2.png"
     },
     {
         "id":3,
         "name": "Rotating navigation",
-        "demo": "https://cincuenta-retos.vercel.app/",
-        "repo": "https://github.com/jaiber91/Portafolio",
+        "demo": "https://retos-diarios.vercel.app/3Rotating%20navigation/index%20.html",
+        "repo": "https://github.com/jaiber91/Retos_diarios/tree/main/3Rotating%20navigation",
         "img": "https://i.ibb.co/LngFSwj/3.png"
     },
     {
         "id":4,
         "name": "Hidden search",
-        "demo": "https://cincuenta-retos.vercel.app/",
-        "repo": "https://github.com/jaiber91/Portafolio",
+        "demo": "https://retos-diarios.vercel.app/4Hidden%20search/index.html",
+        "repo": "https://github.com/jaiber91/Retos_diarios/tree/main/4Hidden%20search",
         "img": "https://i.ibb.co/bQ1XM6b/4.png"
     },
     {
         "id":5,
         "name": "Blurry loading",
-        "demo": "https://cincuenta-retos.vercel.app/",
-        "repo": "https://github.com/jaiber91/Portafolio",
+        "demo": "https://retos-diarios.vercel.app/5Blurry%20loading/index.html",
+        "repo": "https://github.com/jaiber91/Retos_diarios/tree/main/5Blurry%20loading",
         "img": "https://i.ibb.co/G09Qy8Y/5.png"
     },
     {
         "id":6,
         "name": "Drag and drop",
-        "demo": "https://cincuenta-retos.vercel.app/",
-        "repo": "https://github.com/jaiber91/Portafolio",
+        "demo": "https://retos-diarios.vercel.app/6Drag%20N%20Drop/index.html",
+        "repo": "https://github.com/jaiber91/Retos_diarios/tree/main/6Drag%20N%20Drop",
         "img": "https://i.ibb.co/SR4BDmm/6.png"
     },
     {
         "id":7,
         "name": "Auto text",
-        "demo": "https://cincuenta-retos.vercel.app/",
-        "repo": "https://github.com/jaiber91/Portafolio",
+        "demo": "https://retos-diarios.vercel.app/7Autotext/index.html",
+        "repo": "https://github.com/jaiber91/Retos_diarios/tree/main/7Autotext",
         "img": "https://i.ibb.co/FVc7Yrh/7.png"
     },
     {
         "id":8,
         "name": "HoverBoard",
-        "demo": "https://cincuenta-retos.vercel.app/",
-        "repo": "https://github.com/jaiber91/Portafolio",
+        "demo": "https://retos-diarios.vercel.app/8Hoverboard/index.html",
+        "repo": "https://github.com/jaiber91/Retos_diarios/tree/main/8Hoverboard",
         "img": "https://i.ibb.co/Q986sZs/8.png"
     },
     {
         "id":9,
         "name": "Scroll animation",
-        "demo": "https://cincuenta-retos.vercel.app/",
-        "repo": "https://github.com/jaiber91/Portafolio",
+        "demo": "https://retos-diarios.vercel.app/9Scroll%20Animation/index.html",
+        "repo": "https://github.com/jaiber91/Retos_diarios/tree/main/9Scroll%20Animation",
         "img": "https://i.ibb.co/8sVyJMM/9.png"
     },
     {
         "id":10,
         "name": "Form input wave",
-        "demo": "https://cincuenta-retos.vercel.app/",
-        "repo": "https://github.com/jaiber91/Portafolio",
+        "demo": "https://retos-diarios.vercel.app/10Form%20imput%20wave/index.html",
+        "repo": "https://github.com/jaiber91/Retos_diarios/tree/main/10Form%20imput%20wave",
         "img": "https://i.ibb.co/NWZvgNF/10.png"
     },
     {
         "id":11,
         "name": "Dad jokes",
-        "demo": "https://cincuenta-retos.vercel.app/",
-        "repo": "https://github.com/jaiber91/Portafolio",
+        "demo": "https://retos-diarios.vercel.app/11Dad%20jokes/index.html",
+        "repo": "https://github.com/jaiber91/Retos_diarios/tree/main/11Dad%20jokes",
         "img": "https://i.ibb.co/zFGXJk5/11.png"
     },
     {
         "id":12,
         "name": "Sound board",
-        "demo": "https://cincuenta-retos.vercel.app/",
+        "demo": "https://retos-diarios.vercel.app/12Sound%20board/index.html",
         "repo": "https://github.com/jaiber91/Portafolio",
         "img": "https://i.ibb.co/J5Sd5ky/12.png"
     },
     {
         "id":13,
         "name": "Live user filter",
-        "demo": "https://cincuenta-retos.vercel.app/",
-        "repo": "https://github.com/jaiber91/Portafolio",
+        "demo": "https://retos-diarios.vercel.app/13Live%20user%20filter/index.html",
+        "repo": "https://github.com/jaiber91/Retos_diarios/tree/main/13Live%20user%20filter",
         "img": "https://i.ibb.co/JChZZvF/13.png"
     },
     {
         "id":14,
         "name": "Button ripple effect",
-        "demo": "https://cincuenta-retos.vercel.app/",
-        "repo": "https://github.com/jaiber91/Portafolio",
+        "demo": "https://retos-diarios.vercel.app/14Button%20Ripple%20Effect/index.html",
+        "repo": "https://github.com/jaiber91/Retos_diarios/tree/main/14Button%20Ripple%20Effect",
         "img": "https://i.ibb.co/0QcTTx9/14.png"
     },
     {
         "id":15,
         "name": "Background slider",
-        "demo": "https://cincuenta-retos.vercel.app/",
-        "repo": "https://github.com/jaiber91/Portafolio",
+        "demo": "https://retos-diarios.vercel.app/15Background%20Slider/index.html",
+        "repo": "https://github.com/jaiber91/Retos_diarios/tree/main/15Background%20Slider",
         "img": "https://i.ibb.co/gj1k9VS/15.png"
     },
     {
         "id":16,
         "name": "Kinetic loader",
-        "demo": "https://cincuenta-retos.vercel.app/",
-        "repo": "https://github.com/jaiber91/Portafolio",
+        "demo": "https://retos-diarios.vercel.app/16Kinetic%20loader/index.html",
+        "repo": "https://github.com/jaiber91/Retos_diarios/tree/main/16Kinetic%20loader",
         "img": "https://i.ibb.co/QJYWSfK/16.png"
     },
     {
         "id":17,
         "name": "Netflix navigation",
-        "demo": "https://cincuenta-retos.vercel.app/",
-        "repo": "https://github.com/jaiber91/Portafolio",
+        "demo": "https://retos-diarios.vercel.app/17Netflix%20navigation/netflix.html",
+        "repo": "https://github.com/jaiber91/Retos_diarios/tree/main/17Netflix%20navigation",
         "img": "https://i.ibb.co/XLwPJzB/17.png"
     },
     {
         "id":18,
         "name": "Testimonial box switcher",
-        "demo": "https://cincuenta-retos.vercel.app/",
-        "repo": "https://github.com/jaiber91/Portafolio",
+        "demo": "https://retos-diarios.vercel.app/18Testimonial%20Box%20Switcher/index.html",
+        "repo": "https://github.com/jaiber91/Retos_diarios/tree/main/18Testimonial%20Box%20Switcher",
         "img": "https://i.ibb.co/VDXNB7H/18.png"
     },
     {
         "id":19,
         "name": "Pokedex API",
-        "demo": "https://cincuenta-retos.vercel.app/",
-        "repo": "https://github.com/jaiber91/Portafolio",
+        "demo": "https://retos-diarios.vercel.app/19Pokedex%20API/index.html",
+        "repo": "https://github.com/jaiber91/Retos_diarios/tree/main/19Pokedex%20API",
         "img": "https://i.ibb.co/sHC87sC/19.png"
     },
     {
         "id":20,
         "name": "Doble click heart",
-        "demo": "https://cincuenta-retos.vercel.app/",
-        "repo": "https://github.com/jaiber91/Portafolio",
+        "demo": "https://retos-diarios.vercel.app/20Doble%20click%20Heart/index.html",
+        "repo": "https://github.com/jaiber91/Retos_diarios/tree/main/20Doble%20click%20Heart",
         "img": "https://i.ibb.co/YT66tLr/20.png"
     },
     {
         "id":21,
         "name": "Event keycodes",
-        "demo": "https://cincuenta-retos.vercel.app/",
-        "repo": "https://github.com/jaiber91/Portafolio",
+        "demo": "https://retos-diarios.vercel.app/21Event%20keycodes/index.html",
+        "repo": "https://github.com/jaiber91/Retos_diarios/tree/main/21Event%20keycodes",
         "img": "https://i.ibb.co/nsSwDsV/21.png"
     },
     {
         "id":22,
         "name": "Mobile nav navigation",
-        "demo": "https://cincuenta-retos.vercel.app/",
-        "repo": "https://github.com/jaiber91/Portafolio",
+        "demo": "https://retos-diarios.vercel.app/22Mobile%20Nav%20Navigation/index.html",
+        "repo": "https://github.com/jaiber91/Retos_diarios/tree/main/22Mobile%20Nav%20Navigation",
         "img": "https://i.ibb.co/qn5BqzT/22.png"
     },
     {
         "id":23,
         "name": "Drink water",
-        "demo": "https://cincuenta-retos.vercel.app/",
-        "repo": "https://github.com/jaiber91/Portafolio",
+        "demo": "https://retos-diarios.vercel.app/23Drink%20Water/index.html",
+        "repo": "https://github.com/jaiber91/Retos_diarios/tree/main/23Drink%20Water",
         "img": "https://i.ibb.co/sRPYbB1/23.png"
     },
     {
         "id":24,
         "name": "Feedback UI design",
-        "demo": "https://cincuenta-retos.vercel.app/",
-        "repo": "https://github.com/jaiber91/Portafolio",
+        "demo": "https://retos-diarios.vercel.app/24Feedback%20UI%20Design/index.html",
+        "repo": "https://github.com/jaiber91/Retos_diarios/tree/main/24Feedback%20UI%20Design",
         "img": "https://i.ibb.co/X3T4pqt/24.png"
     },
     {
         "id":25,
         "name": "Github profile",
-        "demo": "https://cincuenta-retos.vercel.app/",
-        "repo": "https://github.com/jaiber91/Portafolio",
+        "demo": "https://retos-diarios.vercel.app/25Github%20Profile/index.html",
+        "repo": "https://github.com/jaiber91/Retos_diarios/tree/main/25Github%20Profile",
         "img": "https://i.ibb.co/x17CwQK/25.png"
         
     }
